@@ -5,6 +5,7 @@
 #include <gtkmm/button.h>
 
 class BoomlinApp : public Gtk::Window {
+  
 public:
   BoomlinApp();
 
