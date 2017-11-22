@@ -9,4 +9,4 @@ boomlin: $(OBJECTS)
 	g++ $(CFLAGS) $< -o $@ `pkg-config gtkmm-3.0  --cflags`
 
 clean:
-	rm -rf *.o
+	rm -rf *.o boomlin
