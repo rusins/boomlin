@@ -1,4 +1,4 @@
-#ifdef BOOMLIN_APP
+#ifndef BOOMLIN_APP
 #define BOOMLIN_APP
 
 #include <gtkmm/window.h>
@@ -14,6 +14,6 @@ protected:
 
   // Member widgets
   Gtk::Button m_button;
-}
+};
 
 #endif // BOOMLIN_APP

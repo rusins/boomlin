@@ -1,3 +1,0 @@
-/home/raitis/Code/C++/boomlin/CMakeFiles/rebuild_cache.dir
-/home/raitis/Code/C++/boomlin/CMakeFiles/boomlin.dir
-/home/raitis/Code/C++/boomlin/CMakeFiles/edit_cache.dir

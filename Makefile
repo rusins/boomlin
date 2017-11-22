@@ -1,6 +1,6 @@
 CFLAGS=-c -Wall
 SOURCES=$(wildcard **/*.cpp)
-OBJECTS=$(subst .cc,.o,$(SOURCES))
+OBJECTS=$(subst .cpp,.o,$(SOURCES))
 
 boomlin: $(OBJECTS)
 	g++ $(OBJECTS) -o $@ `pkg-config gtkmm-3.0 --libs`
