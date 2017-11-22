@@ -1,0 +1,6 @@
+#ifdef BOOMLIN_APP
+#define BOOMLIN_APP
+
+
+
+#endif

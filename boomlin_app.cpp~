@@ -1,0 +1,5 @@
+#include <gtk/gtk.h>
+
+#include "boomlin_app.hpp"
+
+struct _BoomlinApp
