@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Boomlin
+GenericName=Music Player
+Icon=banshee
+StartupNotify=false
+Exec=@bindir@/boomlin %U
+Categories=AudioVideo;Audio
