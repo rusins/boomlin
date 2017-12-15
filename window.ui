@@ -183,7 +183,7 @@
       </object>
     </child>
     <child type="titlebar">
-      <object class="BoomlinHeaderBar" id="header_bar">
+      <object class="BoomlinHeaderBar" parent="GtkHeaderBar" id="header_bar">
 		<child type="title">
 		  <object class="GtkLabel">
 		  </object>
